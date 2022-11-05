@@ -36,6 +36,8 @@
 -	Visualized 10,000 campaign records in Plotly, an interactive plot enables segmentation of different campaigns and other characteristics (e.g. users per age group, valid offers per day).
 -	Completed conversion and retention rate analysis, determining the most effective channel which obtained highest conversion rate (34%).
 -	Applied A/B testing on the email channel, the statistical significance showed the customized emails improved marketing efficiency by 39%.
+<img src="images/Conv Rate.png?raw=true"/>
+<img src="images/Post MKT 1.png?raw=true"/>
 
 
 
