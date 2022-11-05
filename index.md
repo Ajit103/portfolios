@@ -31,7 +31,7 @@
 <img src="images/Random Forest AOC.png?raw=true"/>
 
 ---
-[Post Marketing Campaign Analysis (A/B Testing, BI, SQL, Python)](https://github.com/shuchangliang/Projects/blob/master/Post%20Campaign%20Analysis%20rev.1.ipynb)
+[Post Marketing Campaign Analysis (A/B Testing, BI, SQL, Python)](https://github.com/Ajit103/PostCampaignAnalytics/blob/main/Post%20Campaign%20Analysis.ipynb)
 -	Acquired data from marketing campaigns of a Portugal bank, and implemented data pipeline with SQL connector in Python.
 -	Visualized 10,000 campaign records in Plotly, an interactive plot enables segmentation of different campaigns and other characteristics (e.g. users per age group, valid offers per day).
 -	Completed conversion and retention rate analysis, determining the most effective channel which obtained highest conversion rate (34%).
