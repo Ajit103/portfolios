@@ -33,14 +33,10 @@
 
 
 ---
-[Online Retailer Marketing Analysis (Machine Learning, Feature Engineering, Python)](https://github.com/shuchangliang/Projects/blob/master/LTV%20%26%20Predicting%20Next%20Purchase%20Day.ipynb)
+[Online Retailer Marketing Analysis (Python)](https://github.com/Ajit103/CLV-Prediction/blob/main/Customer%20Lifetime%20Value%20prediction.ipynb)
 -	Performed analysis using rollup and drill down, slice and dice, sort and rank on 1 year of historical sales data for a global online retailer to compare monthly performance (e.g., growth rate, numbers of active customers, new customer ratio and retention rate, etc.)
 -	Performed SWOT analysis on consumer marketing initiatives.
--	Used K-means to segment customers into 3 clusters (high, medium and low value), based on their recency, frequency and monetary values.
 -	Performed customer lifetime value (CLV) analysis by using BG-NBD Model, and cohort analysis (retention over user & product lifetime).
--	A GridSearchCV tuned Random Forest multi-class Classifier (84% accuracy) was implemented to predict the CLV classes.
-<img src="images/Retention Rate.png?raw=true"/>
-<img src="images/Probability of customer being active.png?raw=true"/>
 
 
 
