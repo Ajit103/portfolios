@@ -8,7 +8,7 @@
 -	Transformed large data from session and hit levels using Google BigQuery into a unnested, relational table (1.4-million records).
 -	Built a dynamic KPI dashboard which displays monthly or yearly traffic (total sessions, average pageviews, average duration on page) per source and per location, acquisition amounts per channel, and bounce rate per page.
 <img src="images/GMS Tab.PNG?raw=true"/>
-
+<img src="images/GMS 2.PNG?raw=true"/>
 
 ---
 [Post Marketing Campaign Analysis (A/B Testing, BI, SQL, Python)](https://github.com/Ajit103/PostCampaignAnalytics/blob/main/Post%20Campaign%20Analysis.ipynb)
